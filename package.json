@@ -1,0 +1,20 @@
+{
+  "name": "debugvault-mcp",
+  "version": "1.0.0",
+  "description": "Official MCP server for DebugVault — search 5,530+ production bugs, get AI-powered debugging, and post bounties directly from Cursor, Claude, and Cline",
+  "main": "index.js",
+  "bin": {
+    "debugvault-mcp": "./index.js"
+  },
+  "keywords": ["mcp", "debugging", "bugs", "developer-tools", "ai", "debugvault", "model-context-protocol", "cursor", "claude", "cline"],
+  "author": "DebugVault <admin@debugvlt.com>",
+  "license": "MIT",
+  "homepage": "https://debugvlt.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tarigha/debugvault-mcp"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
