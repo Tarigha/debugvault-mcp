@@ -1,6 +1,6 @@
 {
   "name": "debugvault-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official MCP server for DebugVault — search 5,530+ production bugs, get AI-powered debugging, and post bounties directly from Cursor, Claude, and Cline",
   "main": "index.js",
   "bin": {
